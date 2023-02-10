@@ -25,12 +25,11 @@
     "format-check": "prettier --check lib/*js test/*js"
   },
   "dependencies": {
-    "@mapbox/node-pre-gyp": "latest",
     "commander": "~2.19.0",
     "eventemitter3": "3.1.0",
     "http-proxy": "1.18.1",
     "node-watch": "0.6.2",
-    "sqlite3": "5.0.2"
+    "sqlite3": "5.0.3"
   },
   "devDependencies": {
     "axios": "*",
